@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="subscriber.py" name="subscriber"
+output="screen">
+</node>
+</launch>

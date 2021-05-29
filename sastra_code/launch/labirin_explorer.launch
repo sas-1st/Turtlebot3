@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="labirin_explorer.py" name="labirin_explorer"
+output="screen">
+</node>
+</launch>

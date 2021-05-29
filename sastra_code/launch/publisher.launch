@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="publisher.py" name="publisher"
+output="screen">
+</node>
+</launch>

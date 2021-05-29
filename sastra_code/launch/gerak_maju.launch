@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="gerak_maju.py" name="gerak_maju"
+output="screen">
+</node>
+</launch>

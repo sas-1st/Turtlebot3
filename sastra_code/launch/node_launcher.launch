@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="printer.py" name="printer_node"
+output="screen">
+</node>
+</launch>

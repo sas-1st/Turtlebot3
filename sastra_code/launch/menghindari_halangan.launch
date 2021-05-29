@@ -1,0 +1,5 @@
+<launch>
+<node pkg="sastra_code" type="menghindari_halangan.py" name="menghindari_halangan"
+output="screen">
+</node>
+</launch>
